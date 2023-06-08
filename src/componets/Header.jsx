@@ -1,4 +1,5 @@
 import React from 'react'
+import { img1 } from '../assets'
 
 const Header = () => {
   return (
@@ -6,7 +7,7 @@ const Header = () => {
         <div className=' '>
         <div className='flex w-full  '>
         <div className='bg-gray-800 relative w-full  max-w-full h-[550px] shadow-2xl overflow-y-hidden '>
-          <img src="/dist/img1.jpg" className='w-full absolute h-full mix-blend-overlay inset-0  object-cover ' alt="" />       
+          <img src={img1} className='w-full absolute h-full mix-blend-overlay inset-0  object-cover ' alt="" />       
       </div>
       <div className='absolute block right-0 sm:mt-[60px] top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 '>
         <h1 className=' text-xl sm:text-4xl text-center text-white '>The best trading company based in Canada,Rwanda and Burundi </h1>
