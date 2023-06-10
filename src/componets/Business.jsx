@@ -72,13 +72,13 @@ function Business() {
 
      
         <hr class="mx-auto w-1/2" />
-        <h2 className="mb-6 text-center p-9 text-4xl font-bold text-slate-900 mt-3 sm:text-5xl">
+        <h2 className="mb-6  justify-center text-center p-9 text-4xl font-bold text-slate-900 mt-3 sm:text-5xl">
         Our Services
       </h2>
       <p className="mt-2 text-center text-3xl text-slate-900 ">
       We offer many services to progress!
       </p>
-      <ul className='flex flex-col sm:flex-row items-center gap-4 mt-6 '>
+      <ul className='flex flex-col justify-center sm:flex-row items-center gap-11 mt-6 '>
         <li className='hover:scale-110'>
             <img src={service1} alt="" />
             <h1 className='font-dmserif text-2xl font-bold mb-1 text-white"'>Import and Export</h1>

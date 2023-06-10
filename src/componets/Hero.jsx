@@ -16,7 +16,7 @@ const Hero = () => {
     <ul className='flex flex-col md:flex-row flex-wrap justify-center gap-4 mt-6 '>
       <li className=''>
       <p className='font-poppins font-normal mx-6 text-dimWhite text-[20px] sm:min-w-[700px] sm:max-w-[700px]  leading-10 sm:leading-[50.8px]'>
-    Big Inc is a renowned general trading Dubai company, procurement, and supply specialist with vast financial and credit prowess.
+    Big Inc is a renowned general trading  company, procurement, and supply specialist with vast financial and credit prowess.
 
 We deal with a wide range of merchandise across various sectors including energy, metal, and agricultural markets. We also boast robust relationships with leading suppliers in the world.
 

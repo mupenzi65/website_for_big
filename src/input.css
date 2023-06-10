@@ -5,9 +5,9 @@
 *{
   margin: 0;
 }
-body::-webkit-scrollbar{
+/* body::-webkit-scrollbar{
   display: none;
-}
+} */
 
 .bg-blue-gradient {
     background: linear-gradient(

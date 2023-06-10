@@ -17,7 +17,7 @@ const Contact = () => {
           <img src={contact} className='w-full absolute h-full mix-blend-overlay inset-0  object-cover ' alt="" />       
       </div>
       <div className='absolute block right-0 sm:mt-[60px] top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 '>
-        <h1 className=' text-xl sm:text-4xl text-center text-white '>Contact Us </h1>
+        <h1 className=' text-xl sm:text-4xl text-center text-white lg:mb-[350px]'>Contact Us </h1>
         <p className=' text-gray-300 flex max-w[300px] mx-auto mt-8 items-center text-xl sm:text-2xl  '> </p>
      </div>
     </div>

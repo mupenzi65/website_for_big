@@ -17,7 +17,7 @@ const Navbar = () => {
                 <a  href="home">Home</a>
             </li>
             <li className='hover:text-green-400 mr-8 whitespace-nowrap'>
-                <a href="about">About Us</a>
+                <a href="">About Us</a>
             </li>
             <li className='hover:text-green-400 mr-8'>
                 <a href="">Products</a>
@@ -43,7 +43,7 @@ const Navbar = () => {
                 <a  href="home">Home</a>
             </li>
             <li className='hover:text-green-400 mt-2 whitespace-nowrap'>
-                <a href="about">About Us</a>
+                <a href="">About Us</a>
             </li>
             <li className='hover:text-green-400 mt-2'>
                 <a href="">Products</a>
@@ -53,6 +53,9 @@ const Navbar = () => {
             </li>
             <li className='hover:text-green-400 mt-2'>
                 <a href="">Partnership</a>
+            </li>
+            <li className='hover:text-green-400 mt-2'>
+                <a href="contact">Contact Us</a>
             </li>
                    
                 </ul>
